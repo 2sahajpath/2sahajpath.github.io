@@ -989,6 +989,10 @@
 .ti-facebook:before {
 	content: "\e741";
 }
+
+.ti-whatsapp:before {
+	content: "\e741";
+}
 .ti-dropbox:before {
 	content: "\e742";
 }
